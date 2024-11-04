@@ -1,0 +1,3 @@
+[submodule "canboat"]
+	path = canboat
+	url = https://github.com/canboat/canboat.git
