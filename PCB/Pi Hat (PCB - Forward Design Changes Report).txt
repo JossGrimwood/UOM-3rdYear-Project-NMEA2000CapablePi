@@ -1,0 +1,28 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Thursday, February 22, 2024
+Project Path:       C:\Users\User\Documents\computing\Year3\nmea2000_project\PCB\Pi Hat.prj
+Design Path:        C:\Users\User\Documents\computing\Year3\nmea2000_project\PCB\Pi Hat.pcb
+Design Title:       
+Created:            22/10/2023 12:49:05
+Last Saved:         22/02/2024 12:04:52
+Editing Time:       1896 min
+Units:              mm (precision 1)
+
+Disconnected pin "C3.1" from net "N0052".
+Disconnected pin "C3.2" from net "N0053".
+Disconnected pin "C4.1" from net "N0051".
+Disconnected pin "C4.2" from net "N0053".
+
+Deleted net "N0051".
+Deleted net "N0052".
+Deleted net "N0053".
+
+Connected pin "C3.1" to net "VDD".
+Connected pin "C3.2" to net "VSS".
+Connected pin "C4.1" to net "VCC".
+Connected pin "C4.2" to net "VSS".
+
+
+End Of Report.

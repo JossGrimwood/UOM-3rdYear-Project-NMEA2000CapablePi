@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MCP2515_I_P'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "RS_PART_NUMBER", "RS_PRICE/STOCK", "ALLIED_NUMBER", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Microchip", "MCP2515-I/P" (!) = "", "DIP794W56P254L2286H533Q18N", "Dual-In-Line Packages", "6283532", "http://uk.rs-online.com/web/p/products/6283532", "70045398", "Stand-Alone CAN Controller", "http://uk.rs-online.com/web/p/products/6283532", "5.334 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP2515-I_P
+D Stand-Alone CAN Controller
+K
+F http://uk.rs-online.com/web/p/products/6283532
+$ENDCMP
+#
+#End Doc Library

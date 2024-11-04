@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package
+  xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10"
+  xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10"
+  xmlns:uap10="http://schemas.microsoft.com/appx/manifest/uap/windows10/10"
+  xmlns:rescap="http://schemas.microsoft.com/appx/manifest/foundation/windows10/restrictedcapabilities">
+  <Identity Name="NMEA2000client" Version="1.0.0.0" Publisher="CN=UniverstiyOfManchesterM31181JG" ProcessorArchitecture="x64" />
+  <Properties>
+    <DisplayName>NMEA2000 client</DisplayName>
+    <PublisherDisplayName>Universtiy Of Manchester M31181JG</PublisherDisplayName>
+    <Description>client for can enabled pi</Description>
+    <Logo>images\logo.png</Logo>
+  </Properties>
+  <Resources>
+    <Resource Language="en-us" />
+  </Resources>
+  <Dependencies>
+    <TargetDeviceFamily Name="Windows.Desktop" MinVersion="10.0.19041.0" MaxVersionTested="10.0.19041.0" />
+  </Dependencies>
+  <Capabilities>
+    <rescap:Capability Name="runFullTrust"/>
+    <rescap:Capability Name="allowElevation"/>
+    <rescap:Capability Name="broadFileSystemAccess"/>
+    <rescap:Capability Name="documentsLibrary"/>
+    <DeviceCapability Name="serialcommunication">
+      <Device Id="any">
+        <Function Type="name:serialPort" />
+      </Device>
+    </DeviceCapability>
+  </Capabilities>
+  <Applications>
+    <Application Id="NMEA0183translate" Executable="NMEA0183_Translate\bin\service.exe"
+      uap10:RuntimeBehavior="packagedClassicApp"
+      uap10:TrustLevel="mediumIL">
+      <uap:VisualElements DisplayName="NMEA0183 translate" Description="NMEA0183 translate"	Square150x150Logo="NMEA0183_Translate\images\logo.png" Square44x44Logo="NMEA0183_Translate\images\logo.png" BackgroundColor="green" />
+      
+    </Application>
+  </Applications>
+</Package>

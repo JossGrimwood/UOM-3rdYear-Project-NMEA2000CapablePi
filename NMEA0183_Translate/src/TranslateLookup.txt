@@ -1,0 +1,4 @@
+Distance Log$--VLW,{Log},N,{Trip Log},N
+Environmental Parameters$--MTW,{Temperature},C
+Speed$VWVHW,,T,,M,{Speed Water Referenced},N,,K
+Water Depth$SDDBT,,f,{Depth},M,,F

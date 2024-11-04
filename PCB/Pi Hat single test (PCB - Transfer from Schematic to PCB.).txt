@@ -1,0 +1,16 @@
+Transfer from Schematic to PCB.
+-------------------------------
+
+Report Written:     Monday, October 23, 2023
+Design Path:        C:\Users\jossg\OneDrive\Documents\computer science\Year3\nmea2000_project\PCB\Pi Hat single test.pcb
+Design Title:       
+Created:            23/10/2023 18:34:16
+Last Saved:         23/10/2023 18:35:44
+Editing Time:       1 min
+Units:              thou (precision 0)
+
+Net class "Ground" was not defined, but has been created. Please check the values in the PCB design.
+Net class "Power" was not defined, but has been created. Please check the values in the PCB design.
+Net class "Signal" was not defined, but has been created. Please check the values in the PCB design.
+
+End Of Report.

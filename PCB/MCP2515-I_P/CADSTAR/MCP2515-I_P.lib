@@ -1,0 +1,17 @@
+.MCP2515-I_P :1 ;Stand-Alone CAN Controller
+DIP794W56P254L2286H533Q18N
+*STM IC
+*NGS
+*PLB 1="TXCAN" 2="RXCAN" 3="CLKOUT/SOF" 4="'TX0RTS'" 5="'TX1RTS'" 6="'TX2RTS'" 7="OSC2" 8="OSC1" 9="VSS" 10="'RX1BF'" 11="'RX0BF'" 12="'INT'" 13="SCK" 14="SI" 15="SO" 16="'CS'" 17="'RESET'" 18="VDD"
+*MXP 18
+*DFN MCP2515-I_P
+~!RS Part Number (6283532)
+~!Link RS Price/Stock (http://uk.rs-online.com/web/p/products/6283532)
+~!Manufacturer_Name (Microchip)
+~!Manufacturer_Part_Number (MCP2515-I/P)
+~!Allied_Number (70045398)
+~!Link Datasheet (http://uk.rs-online.com/web/p/products/6283532)
+~!Height (5.334mm)
+~!3D_Model (MCP2515-I_P)
+MCP2515-I_P
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 

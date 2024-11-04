@@ -1,0 +1,17 @@
+.MCP2551-I_P :1 ;High Speed CAN Transceiver,MCP2551-I/P Microchip MCP2551-I/P, CAN Transceiver 1-channel ISO 11898, 8-Pin PDIP
+DIP794W56P254L946H432Q8N
+*STM IC
+*NGS
+*PLB 1="TXD" 2="VSS" 3="VDD" 4="RXD" 5="VREF" 6="CANL" 7="CANH" 8="RS"
+*MXP 8
+*DFN MCP2551-I_P
+~!RS Part Number (0402920)
+~!Link RS Price/Stock (http://uk.rs-online.com/web/p/products/0402920)
+~!Manufacturer_Name (Microchip)
+~!Manufacturer_Part_Number (MCP2551-I/P)
+~!Allied_Number (70045402)
+~!Link Datasheet (http://uk.rs-online.com/web/p/products/0402920)
+~!Height (4.32mm)
+~!3D_Model (MCP2551-I_P)
+MCP2551-I_P
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

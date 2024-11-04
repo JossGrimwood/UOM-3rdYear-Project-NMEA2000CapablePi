@@ -1,0 +1,36 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Thursday, February 22, 2024
+Project Path:       C:\Users\User\Documents\computing\Year3\nmea2000_project\PCB\Pi Hat.prj
+Design Path:        C:\Users\User\Documents\computing\Year3\nmea2000_project\PCB\Pi Hat.pcb
+Design Title:       
+Created:            22/10/2023 12:49:05
+Last Saved:         22/02/2024 12:04:52
+Editing Time:       1896 min
+Units:              mm (precision 1)
+
+
+Checking integrity of Schematic "C:\Users\User\Documents\computing\Year3\nmea2000_project\PCB\Pi Hat.sch" with PCB "C:\Users\User\Documents\computing\Year3\nmea2000_project\PCB\Pi Hat.pcb"
+============================================================================================================================================================================================
+
+The PCB and Schematic designs do not match.
+To bring them into line, you will need to make the following changes to the PCB design:
+
+
+Disconnect C3.1 from Net "N0052"
+Disconnect C3.2 from Net "N0053"
+Disconnect C4.1 from Net "N0051"
+Disconnect C4.2 from Net "N0053"
+
+Delete Net "N0051"
+Delete Net "N0052"
+Delete Net "N0053"
+
+Connect Pin C3-1 to Net "VDD"
+Connect Pin C3-2 to Net "VSS"
+Connect Pin C4-1 to Net "VCC"
+Connect Pin C4-2 to Net "VSS"
+
+
+End Of Report.

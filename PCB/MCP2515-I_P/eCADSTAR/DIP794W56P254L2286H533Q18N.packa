@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MCP2515-I_P"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-09-25-12:37:12)
+    (mountForm default
+        (footprintRef "DIP794W56P254L2286H533Q18N")
+        (spec "System")
+    )
+)

@@ -1,0 +1,220 @@
+Plot Report
+-----------
+
+Report Written:     Friday, February 23, 2024
+Project Path:       C:\Users\jossg\OneDrive\Documents\computer science\Year3\nmea2000_project\PCB\Pi Hat.prj
+Design Path:        C:\Users\jossg\OneDrive\Documents\computer science\Year3\nmea2000_project\PCB\Pi Hat.pcb
+Design Title:       
+Created:            22/10/2023 12:49:05
+Last Saved:         20/02/2024 13:45:21
+Editing Time:       1877 min
+Units:              mm (precision 1)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 2
+    Format 3.5 absolute in inches.
+    Zero suppression Leading
+
+
+
+Plots Output
+============
+
+    Plot Job: "C:\Users\jossg\OneDrive\Documents\computer science\Year3\nmea2000_project\PCB\Pi Hat.mop"
+
+
+Gerber Output
+=============
+
+C:\Users\jossg\OneDrive\Documents\computer science\Year3\nmea2000_project\PCB\Pi Hat - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 19.69
+    D11    Round 40.00
+    D12    Round 62.99
+    D13    Square 45.63
+    D14    Round 45.63
+    D15    Square 45.67
+    D16    Round 45.67
+    D17    Round 60.00
+    D18    Round 66.93
+
+Gerber Output
+=============
+
+C:\Users\jossg\OneDrive\Documents\computer science\Year3\nmea2000_project\PCB\Pi Hat - Top Copper (Resist).gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D19    Round 72.99
+    D70    Square 55.63
+    D71    Round 55.63
+    D20    Square 55.67
+    D21    Round 55.67
+    D22    Round 70.00
+    D23    Round 76.93
+
+Gerber Output
+=============
+
+C:\Users\jossg\OneDrive\Documents\computer science\Year3\nmea2000_project\PCB\Pi Hat - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D24    Round 5.00
+    D25    Round 7.87
+
+Gerber Output
+=============
+
+C:\Users\jossg\OneDrive\Documents\computer science\Year3\nmea2000_project\PCB\Pi Hat - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 19.69
+    D11    Round 40.00
+    D12    Round 62.99
+    D13    Square 45.63
+    D14    Round 45.63
+    D15    Square 45.67
+    D16    Round 45.67
+    D17    Round 60.00
+    D18    Round 66.93
+
+Gerber Output
+=============
+
+C:\Users\jossg\OneDrive\Documents\computer science\Year3\nmea2000_project\PCB\Pi Hat - Bottom Copper (Resist).gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D19    Round 72.99
+    D70    Square 55.63
+    D71    Round 55.63
+    D20    Square 55.67
+    D21    Round 55.67
+    D22    Round 70.00
+    D23    Round 76.93
+
+Gerber Output
+=============
+
+C:\Users\jossg\OneDrive\Documents\computer science\Year3\nmea2000_project\PCB\Pi Hat - Gerber Drill Data - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+    D-Code Shape  (thou)
+    -----------------------
+    D26    Round 24.00
+    D27    Round 40.16
+    D28    Round 29.88
+    D29    Round 29.92
+    D72    Round 32.00
+    D73    Round 39.37
+
+NC Drill Output
+===============
+
+C:\Users\jossg\OneDrive\Documents\computer science\Year3\nmea2000_project\PCB\Pi Hat - NC Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+
+    Tool  Size           Count   ID
+    --------------------------------------
+    T001  0.02400 inches 38    A
+    T002  0.02988 inches 18    C
+    T003  0.02992 inches 8     D
+    T004  0.03200 inches 16    E
+    T005  0.03937 inches 4     F
+    T006  0.04016 inches 26    B
+    --------------------------------------
+    Total                110
+    --------------------------------------
+
+C:\Users\jossg\OneDrive\Documents\computer science\Year3\nmea2000_project\PCB\Pi Hat - NC Drill Data - [Through Hole] (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+
+    Tool  Size Count   ID
+    ----------------------------
+    ----------------------------
+    Total      0
+    ----------------------------
+
+
+Gerber Output
+=============
+
+C:\Users\jossg\OneDrive\Documents\computer science\Year3\nmea2000_project\PCB\Pi Hat - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    24    Y      100  Round A
+    40    Y      100  Round B
+    30    Y      100  Round C
+    30    Y      100  Round D
+    32    Y      100  Round E
+    39    Y      100  Round F
+
+    D-Code Shape  (thou)
+    -----------------------
+    D24    Round 5.00
+    D74    Round 100.00
+
+End Of Report.

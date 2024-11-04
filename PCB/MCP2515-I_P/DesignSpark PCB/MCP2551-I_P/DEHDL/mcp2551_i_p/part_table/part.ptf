@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MCP2551_I_P'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "RS_PART_NUMBER", "RS_PRICE/STOCK", "ALLIED_NUMBER", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Microchip", "MCP2551-I/P" (!) = "", "DIP794W56P254L946H432Q8N", "Dual-In-Line Packages", "0402920", "http://uk.rs-online.com/web/p/products/0402920", "70045402", "High Speed CAN Transceiver,MCP2551-I/P Microchip MCP2551-I/P, CAN Transceiver 1-channel ISO 11898, 8-Pin PDIP", "http://uk.rs-online.com/web/p/products/0402920", "4.32 mm"
+END_PART
+
+END.

@@ -1,0 +1,212 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "MCP2515-I_P"
+   (description "Stand-Alone CAN Controller")
+   (family "ANA")
+   (package "DIP794W56P254L2286H533Q18N")
+   (attribute "Datasheet Link" "http://uk.rs-online.com/web/p/products/6283532")
+   (attribute "Geometry.Height" "5.334mm")
+   (attribute "RS Part Number" "6283532")
+   (attribute "RS Price/Stock" "http://uk.rs-online.com/web/p/products/6283532")
+   (attribute "Manufacturer_Name" "Microchip")
+   (attribute "Manufacturer_Part_Number" "MCP2515-I/P")
+   (attribute "Allied_Number" "70045398")
+   (gate
+    (symbol "MCP2515-I_P")
+    (pin "TXCAN" 1 PS)
+    (pin "RXCAN" 2 PS)
+    (pin "CLKOUT/SOF" 3 PS)
+    (pin "$TX0RTS$" 4 PS)
+    (pin "$TX1RTS$" 5 PS)
+    (pin "$TX2RTS$" 6 PS)
+    (pin "OSC2" 7 PS)
+    (pin "OSC1" 8 PS)
+    (pin "VSS" 9 PS)
+    (pin "VDD" 18 PS)
+    (pin "$RESET$" 17 PS)
+    (pin "$CS$" 16 PS)
+    (pin "SO" 15 PS)
+    (pin "SI" 14 PS)
+    (pin "SCK" 13 PS)
+    (pin "$INT$" 12 PS)
+    (pin "$RX0BF$" 11 PS)
+    (pin "$RX1BF$" 10 PS)
+   )
+  )
+  (symbol "MCP2515-I_P"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1300 100) (pt 1300 -900) (pt 200 -900) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -600) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -700) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -800) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1500 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1500 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1500 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1500 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1500 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1500 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1500 -600) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1500 -700) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1500 -800) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "DIP794W56P254L2286H533Q18N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -4.957 11.934)
+      (pt 4.957 11.934)
+      (pt 4.957 -11.934)
+      (pt -4.957 -11.934)
+      (pt -4.957 11.934))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.556 11.684)
+      (pt 3.556 11.684)
+      (pt 3.556 -11.684)
+      (pt -3.556 -11.684)
+      (pt -3.556 11.684))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -3.556 10.414)
+      (pt -2.286 11.684))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -4.548 11.684)
+      (pt 3.556 11.684))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -3.556 -11.684)
+      (pt 3.556 -11.684))))
+   (leg 1 (pt -3.969 10.16) (padstack 1))
+   (leg 2 (pt -3.969 7.62) (padstack 0))
+   (leg 3 (pt -3.969 5.08) (padstack 0))
+   (leg 4 (pt -3.969 2.54) (padstack 0))
+   (leg 5 (pt -3.969 0) (padstack 0))
+   (leg 6 (pt -3.969 -2.54) (padstack 0))
+   (leg 7 (pt -3.969 -5.08) (padstack 0))
+   (leg 8 (pt -3.969 -7.62) (padstack 0))
+   (leg 9 (pt -3.969 -10.16) (padstack 0))
+   (leg 10 (pt 3.969 -10.16) (padstack 0))
+   (leg 11 (pt 3.969 -7.62) (padstack 0))
+   (leg 12 (pt 3.969 -5.08) (padstack 0))
+   (leg 13 (pt 3.969 -2.54) (padstack 0))
+   (leg 14 (pt 3.969 0) (padstack 0))
+   (leg 15 (pt 3.969 2.54) (padstack 0))
+   (leg 16 (pt 3.969 5.08) (padstack 0))
+   (leg 17 (pt 3.969 7.62) (padstack 0))
+   (leg 18 (pt 3.969 10.16) (padstack 0))
+   (padstack 0
+    (hole 0.759)
+    (plated true)
+    (pad (layer TCOP) (round 1.159))
+    (pad (layer INNER) (round 1.159))
+    (pad (layer BCOP) (round 1.159))
+   )
+   (padstack 1
+    (hole 0.759)
+    (plated true)
+    (pad (layer TCOP) (square 1.159))
+    (pad (layer INNER) (round 1.159))
+    (pad (layer BCOP) (square 1.159))
+   )
+   (model "MCP2515-I_P.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

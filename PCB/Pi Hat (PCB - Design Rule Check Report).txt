@@ -1,0 +1,73 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     Thursday, February 22, 2024
+Project Path:       C:\Users\User\Documents\computing\Year3\nmea2000_project\PCB\Pi Hat.prj
+Design Path:        C:\Users\User\Documents\computing\Year3\nmea2000_project\PCB\Pi Hat.pcb
+Design Title:       
+Created:            22/10/2023 12:49:05
+Last Saved:         22/02/2024 12:50:55
+Editing Time:       1934 min
+Units:              mm (precision 1)
+
+
+Results
+=======
+
+Track to Pad Error (T-P) between (504.7 480.7) and (504.2 480.7) on Layer "Bottom Copper".
+    Error between Component Pad U1.23 (Net 'N0021') and Track (Net 'N0017'), Gap is 0.2 needs to be 0.3.
+Track to Pad Error (T-P) between (503.7 480.7) and (504.2 480.7) on Layer "Bottom Copper".
+    Error between Component Pad U1.25 and Track (Net 'N0017'), Gap is 0.2 needs to be 0.3.
+Drill Hole to Drill Hole error (D-D) at (495.9 495.3) on layer "[All]".
+Drill Hole to Drill Hole error (D-D) at (497.2 522.0) on layer "[All]".
+
+Number of errors found : 4
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    Yes
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  No
+Drill Backoff                   No
+Silkscreen Overlap              No
+Copper Text In Board            No
+Min Track Width                 No
+Min Annular Ring                No
+Min Paste Size                  No
+Vias In Pads                    No
+Unplated Vias                   No
+Unplated Pads With Inner Tracks No
+
+
+Nets
+
+=====
+
+Net Completion               No
+Dangling Tracks              No
+Net Track Length Differences No
+Nets without Components      No
+Nets on No Connect pins      No
+Nets on No Connect pins      No
+
+
+
+End Of Report.
